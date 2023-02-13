@@ -21,7 +21,7 @@ ChatGPT是一种由OpenAI训练的自然语言处理模型，它可以对输入�
 ### 交流
 |微信交流群|
 |----------|
-|![微信群](img/wechat_group.png)|
+|<img src="https://github.com/TalkToChatGPT/awesome-chatgpt-prompts-zh/blob/main/img/wechat_group.png" width="300" />|
 
 如果你有问题或者有更好的玩法， 都可提交 **Issue** 
 
