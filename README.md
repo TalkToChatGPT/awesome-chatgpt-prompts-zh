@@ -13,6 +13,7 @@ ChatGPT是一种由OpenAI训练的自然语言处理模型，它可以对输入�
 以下是我收集的一些 ChatGPT 提示。我一直在添加新提示，所以 **请经常回来查看!** 是否有您希望添加的提示？
 
 ### 交流
+更多高(jie)级(chu)应(xian)用(zhi)的方法请移步到群里
 |微信交流群(ChatGPT试用账号)|
 |----------|
 |<img src="https://github.com/TalkToChatGPT/awesome-chatgpt-prompts-zh/blob/main/img/wechat_group.png" width="300" />|
